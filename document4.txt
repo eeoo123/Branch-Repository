@@ -1,0 +1,3 @@
+print("oh")
+print("yes")
+print("no")
