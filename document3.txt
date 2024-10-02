@@ -1,4 +1,5 @@
-컴퓨터공학과
+
+컴퓨터공학과 (Dr)
 print("Hello")
 print("hi")
 print("bye")
